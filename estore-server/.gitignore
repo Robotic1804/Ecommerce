@@ -1,0 +1,13 @@
+# Node modules and build outputs
+**/node_modules
+**/dist
+
+# Environment files
+*.env
+
+# VSCode workspace settings (in case it has secrets)
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
